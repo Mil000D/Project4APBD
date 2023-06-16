@@ -1,4 +1,4 @@
-# Project: Inventory Management REST API
+# Project 4 : Summary
 
 In this project, we will develop a REST API application for managing inventory and products.  
   
